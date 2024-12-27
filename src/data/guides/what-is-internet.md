@@ -57,19 +57,19 @@ Information transfer on the Internet from one computer to another does not need 
 
 In this video, you will learn about how the packets of information are routed from one computer to another to reach the destination.
 
-<iframe class="w-full aspect-video mb-5" width="100%" height="400" src="https://www.youtube.com/embed/AYdF7b3nMto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full aspect-video mb-5" width="100%" height="400" src="https://youtu.be/AYdF7b3nMto?si=HVihDGA3gD0AzKVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## HTTP and HTML
 
 HTTP is the standard protocol by which webpages are transferred over the Internet. The video below is a brief introduction to HTTP and how web browsers load websites for you.
 
-<iframe class="w-full aspect-video mb-5" width="100%" height="400" src="https://www.youtube.com/embed/kBXQZMmiA4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full aspect-video mb-5" width="100%" height="400" src="https://youtu.be/kBXQZMmiA4s?si=pH0S9eUFwqY3F28U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Encryption and Public Keys
 
 Cryptography is what keeps our communication secure on the Internet. In this short video, you will learn the basics of cryptography, SSL/TLS, and how they help make the communication on the Internet secure.
 
-<iframe class="w-full aspect-video mb-5" width="100%" height="400" src="https://www.youtube.com/embed/ZghMPWGXexs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full aspect-video mb-5" width="100%" height="400" src="https://youtu.be/ZghMPWGXexs?si=Kmh_n-6VrYpLo3Xf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Cybersecurity and Crime
 
